@@ -1,0 +1,10 @@
+.centered {
+	text-align: center;
+}
+root {
+	display: block;
+}
+.sanSerif {
+	font-family: sans-serif;
+}
+

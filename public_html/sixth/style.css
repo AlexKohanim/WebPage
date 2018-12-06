@@ -1,0 +1,30 @@
+body{
+background-color: #F5F5F5
+}
+.centered {
+	text-align: center;
+}
+root {
+	display: block;
+}
+.sanSerif {
+	font-family: sans-serif;
+}
+#circle {
+      width: 50px;
+      height: 50px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 25px;
+      background: red;
+    }
+#circle2 {
+	width: 50px;
+        height: 50px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        border-radius: 25px;
+        background: blue;
+
+	}
+
